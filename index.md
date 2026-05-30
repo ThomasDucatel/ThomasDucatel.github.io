@@ -4,7 +4,7 @@ title: "Thomas – Portfolio, Recherche & Enseignement"
 
 # Bienvenue
 
-Je suis doctorant en physique et technologie des composants et enseignant contractuelle à l'Université de Strasbourg.
+Je suis doctorant en physique et technologie des composants et enseignant contractuel à l'Université de Strasbourg.
 
 Sur ce site, vous trouverez :
 
