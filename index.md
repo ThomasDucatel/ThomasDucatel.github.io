@@ -9,9 +9,9 @@ Mon travail se situe à l’interface entre **physique des semi-conducteurs orga
 
 Ce site présente :
 
-- Mes **recherches** : Thèse, contributions, publications.
+- Ma **recherche** : Thèse, contributions, publications.
 - Mes **activités d’enseignement** : Cours, TD, TP, ressources pédagogiques.
-- Une sélection de **projets techniques** : scripts MATLAB, modélisation, instrumentation
+- Une sélection de **projets techniques** : scripts MATLAB, modélisation, instrumentation.
 - Mon **CV** et un **dossier de compétences** détaillé
 
 ---
@@ -24,7 +24,7 @@ Découvrez mes travaux de recherche ainsi que mes contributions scientifiques.
 ---
 
 ## 🎓 Enseignement
-Présentation de mes cours, TD, TP MATLAB, méthodes pédagogiques et supports.
+Présentation de mes cours, TD, TP, méthodes pédagogiques et supports.
 
 👉 [Page Enseignement](teaching)
 
