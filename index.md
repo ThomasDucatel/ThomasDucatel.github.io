@@ -9,7 +9,7 @@ Mon travail se situe à l’interface entre **physique des semi-conducteurs orga
 
 Ce site présente :
 
-- Ma **recherche** : Thèse, contributions, publications.
+- Mes **recherches** : Thèse, contributions, publications.
 - Mes **activités d’enseignement** : Cours, TD, TP, ressources pédagogiques.
 - Une sélection de **projets techniques** : scripts MATLAB, modélisation, instrumentation
 - Mon **CV** et un **dossier de compétences** détaillé
@@ -17,7 +17,7 @@ Ce site présente :
 ---
 
 ## 🔬 Recherche
-Découvrez mes travaux sur les matériaux organiques conducteurs, les phénomènes ioniques et électro‑optiques, ainsi que mes contributions scientifiques.
+Découvrez mes travaux de recherche ainsi que mes contributions scientifiques.
 
 👉 [Page Recherche](research)
 
