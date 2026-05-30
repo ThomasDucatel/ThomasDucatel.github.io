@@ -5,7 +5,7 @@ title: "Thomas — Portfolio, Recherche & Enseignement"
 # Bienvenue
 
 Je suis doctorant en sciences des matériaux, spécialisé en physique et technologie des composants, et enseignant contractuel à l'Université de Strasbourg.  
-Mon travail se situe à l’interface entre **physique des semi-conducteurs organique**, **physique des cristaux liquides**, **ingenierie  de composants électro-optique**.
+Mon travail se situe à l’interface entre **physique des semi-conducteurs organique**, **physique des cristaux liquides** et **l'ingenierie  de composants électro-optique**.
 
 Ce site présente :
 
