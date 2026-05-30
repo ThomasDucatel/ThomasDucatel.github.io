@@ -1,0 +1,66 @@
+/* --- TYPOGRAPHIE --- */
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #222;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* --- TITRES --- */
+h1, h2, h3 {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 40px;
+    color: #1a1a1a;
+}
+
+h1 {
+    font-size: 2.2rem;
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+/* --- LIENS --- */
+a {
+    color: #0055aa;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* --- LISTES --- */
+ul {
+    margin-left: 20px;
+}
+
+/* --- SEPARATEURS --- */
+section {
+    margin-bottom: 40px;
+}
+
+/* --- TABLEAUX (pour références) --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+td {
+    padding: 6px 4px;
+    border-bottom: 1px solid #ddd;
+}
