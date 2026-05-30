@@ -4,13 +4,13 @@ title: "Thomas — Portfolio, Recherche & Enseignement"
 
 # Bienvenue
 
-Je suis doctorant en sciences, spécialisé en matériaux organiques et systèmes électro‑actifs (OMIEC), et enseignant en mécatronique et MATLAB.  
-Mon travail se situe à l’interface entre **physique**, **électronique**, **modélisation** et **ingénierie expérimentale**.
+Je suis doctorant en sciences des matériaux, spécialisé en physique et technologie des composants, et enseignant contractuel à l'Université de Strasbourg.  
+Mon travail se situe à l’interface entre **physique des semi-conducteurs organique**, **physique des cristaux liquides**, **ingenierie  de composants électro-optique**.
 
 Ce site présente :
 
-- Ma **recherche** : thèse, contributions, publications, figures scientifiques
-- Mes **activités d’enseignement** : cours, TD, TP MATLAB, ressources pédagogiques
+- Ma **recherche** : Thèse, contributions, publications.
+- Mes **activités d’enseignement** : Cours, TD, TP, ressources pédagogiques.
 - Une sélection de **projets techniques** : scripts MATLAB, modélisation, instrumentation
 - Mon **CV** et un **dossier de compétences** détaillé
 
