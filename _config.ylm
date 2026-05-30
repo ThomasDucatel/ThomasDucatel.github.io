@@ -1,3 +1,35 @@
-title: "Thomas – Portfolio & Research"
+title: "Thomas Ducatel — Portfolio"
 theme: minima
 markdown: kramdown
+
+# Charger ton CSS personnalisé
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
+# Navigation
+nav:
+  - name: "Accueil"
+    link: "/"
+  - name: "À propos"
+    link: "/about"
+  - name: "Recherche"
+    link: "/research"
+  - name: "/Enseignement"
+    link: "/teaching"
+  - name: "Projets"
+    link: "/projects"
+  - name: "CV"
+    link: "/cv"
+  - name: "Compétences"
+    link: "/skills"
+  - name: "Contact"
+    link: "/contact"
+
+# Ajouter ton CSS
+minima:
+  skin: classic
+  custom_css:
+    - /assets/css/style.css
